@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _islower - checks for lowercase character.
- * @c: caracter recibo por main.
- * Return: 1 if c is lowercase
+ * @c: is an argument when the function _islower is called.
+ * Return: 1 if c is lowercase.
  */
 int _islower(int c)
 {

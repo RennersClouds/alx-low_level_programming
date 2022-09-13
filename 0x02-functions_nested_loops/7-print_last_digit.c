@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * print_last_digit - checks number
- * @j: entero recibo por main.
- * Return: Devuelve r cuando es valor absoluto positivo,
+ * print_last_digit - checks numbers
+ * @j: the argument passed when the function print_last_digit is called
+ * Return: Retruns the value of the last digit
  */
 int print_last_digit(int j)
 {

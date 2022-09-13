@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * print_sign - checks number
- * @n: entero recibo por main.
- * Return: 1 if c is lowercase
+ * print_sign - checks numbers.
+ * @n: this is the argument passed when the function print_sign is called.
+ * Return: 1 if c is lowercase.
  */
 int print_sign(int n)
 {

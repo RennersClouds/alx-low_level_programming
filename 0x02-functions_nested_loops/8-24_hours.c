@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * jack_bauer - Imprimir todas las horas del dia
+ * jack_bauer - This function prints evey minutes of the day
  */
 void jack_bauer(void)
 {

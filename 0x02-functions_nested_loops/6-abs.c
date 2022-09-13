@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _abs - checks number
- * @r: entero recibo por main.
- * Return: Devuelve r cuando es valor absoluto positivo,
+ * _abs - checks numbers.
+ * @r: the aregument passed when the function _abs is called.
+ * Return: returns positive is the arguments is a positive number.
  */
 int _abs(int r)
 {

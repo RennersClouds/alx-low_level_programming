@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _isalpha - checks letter
- * @c: caracter recibo por main.
- * Return: 1 if c is lowercase
+ * _isalpha - checks for aplhabetic character.
+ * @c: this is an argument passed when the function _isalpha is called.
+ * Return: 1 if c is lowercase.
  */
 int _isalpha(int c)
 {
