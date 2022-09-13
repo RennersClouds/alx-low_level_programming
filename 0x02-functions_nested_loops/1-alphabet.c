@@ -1,17 +1,15 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
-* main - print_alphabet
-* Return: return 0
+* print_alphabet - llamar la funcion desde el main
 */
-int main(void)
+void print_alphabet(void)
 {
 	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
-		putchar(i);
+		_putchar(i);
 	}
-	putchar('\n');
-	return (0);
+	_putchar('\n');
 }
